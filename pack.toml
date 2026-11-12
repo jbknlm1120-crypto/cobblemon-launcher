@@ -1,0 +1,13 @@
+name = "Dongbblemon launcher"
+author = "ehdals"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f4b5b00ab8863917897719c6a926fb42f5da620b9fe0d7dd368c2c63a225ca0c"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"
